@@ -1,0 +1,7 @@
+# appropriate exclusions for python project
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
